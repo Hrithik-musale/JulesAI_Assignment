@@ -1,0 +1,19 @@
+{
+  "name": "qa-automation-challenge",
+  "version": "1.0.0",
+  "description": "Automated testing for HaroldWaste Demo application",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:report": "npx playwright show-report"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.23.0"
+  },
+  "devDependencies": {
+    "playwright": "^1.23.0",
+    "newman": "^5.3.0"
+  },
+  "author": "",
+  "license": "ISC"
+}

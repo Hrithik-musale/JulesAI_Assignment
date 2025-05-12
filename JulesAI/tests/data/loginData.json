@@ -1,0 +1,4 @@
+[
+  { "email": "qa@julesai.com", "password": "QaJULES2023!", "valid": true },
+  { "email": "wrong@email.com", "password": "wrongpass", "valid": false }
+]
