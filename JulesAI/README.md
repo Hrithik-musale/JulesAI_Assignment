@@ -3,11 +3,11 @@
 Automated UI and API testing for HaroldWaste Demo.
 
 ## Features
-- ✅ UI Testing with Playwright
-- ✅ Data-Driven Testing
-- ✅ GraphQL API testing with Postman
-- ✅ Bug Reporting
-- ✅ GitHub CI/CD Pipeline with HTML Reports
+- UI Testing with Playwright
+- Data-Driven Testing
+- GraphQL API testing with Postman
+- Bug Reporting
+- GitHub CI/CD Pipeline with HTML Reports
 
 ## Getting Started
 
